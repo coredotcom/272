@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "566785104596",
+    "firebase_url": "https://hydpro-e61f6.firebaseio.com",
+    "project_id": "hydpro-e61f6",
+    "storage_bucket": "hydpro-e61f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566785104596:android:5cd56a6b5271f3d1bf3941",
+        "android_client_info": {
+          "package_name": "com.example.hinlapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566785104596-010em8ji23mca9vvcoljrhvqbgvnlpo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgBpMGBACsHp2q4KVaszmgPbSpNi6ICy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566785104596-010em8ji23mca9vvcoljrhvqbgvnlpo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566785104596:android:cb40178e90961f3bbf3941",
+        "android_client_info": {
+          "package_name": "com.hydpro.hnilapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566785104596-010em8ji23mca9vvcoljrhvqbgvnlpo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgBpMGBACsHp2q4KVaszmgPbSpNi6ICy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566785104596-010em8ji23mca9vvcoljrhvqbgvnlpo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
